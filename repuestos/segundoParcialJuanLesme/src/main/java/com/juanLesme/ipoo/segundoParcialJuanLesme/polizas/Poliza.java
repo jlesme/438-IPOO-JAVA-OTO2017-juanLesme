@@ -16,6 +16,7 @@ public class Poliza {
 	
 	private List<Agente> Agente;
 	private List<AccesoAgente> AccesoAgente;
+
 	
 	public Poliza(){
 		
